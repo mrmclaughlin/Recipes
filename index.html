@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Menu</title>
     <style>
-
-           <style>
         body {
             font-family: Arial, sans-serif;
         }
@@ -69,7 +68,7 @@
             background-color: #f1f1f1;
         }
     </style>
-    </style>
+
     <title>Recipe Menu</title>
 </head>
 <body>
@@ -202,6 +201,43 @@
     <!-- ... other cocktails ... -->
 </ul>
      </ul>
+
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const menuItems = document.querySelectorAll('.menu-container > li > a');
+
+            menuItems.forEach(item => {
+                item.addEventListener('click', function(e) {
+                    const nextElement = this.nextElementSibling;
+                    const isOpen = nextElement.style.display === 'block';
+
+                    // Close all dropdowns
+                    document.querySelectorAll('.menu-container li ul').forEach(ul => {
+                        ul.style.display = 'none';
+                    });
+
+                    // Toggle this dropdown
+                    if (!isOpen) {
+                        nextElement.style.display = 'block';
+                    } else {
+                        nextElement.style.display = 'none';
+                    }
+
+                    e.preventDefault();
+                });
+            });
+
+            // Close dropdowns when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.matches('.menu-container > li > a')) {
+                    document.querySelectorAll('.menu-container li ul').forEach(ul => {
+                        ul.style.display = 'none';
+                    });
+                }
+            });
+        });
+    </script>
 
 </body></html>
 
