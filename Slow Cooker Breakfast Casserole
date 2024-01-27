@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slow Cooker Breakfast Casserole</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .recipe-title {
+            color: #333;
+            text-align: center;
+        }
+        .time {
+            font-style: italic;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .section-title {
+            color: #007BFF;
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="recipe-title">Slow Cooker Breakfast Casserole with Kale, Red Pepper, and Feta</h1>
+        <p class="time">Yield: Makes 8 servings | Prep Time: 20 minutes | Cook Time: 3 hours | Additional Time: 2 hours 20 minutes | Total Time: 5 hours 40 minutes</p>
+        <p>Slow Cooker Breakfast Casserole with Kale, Red Pepper, and Feta is perfect for when you want breakfast that cooks without you having to watch it.</p>
+        
+        <h2 class="section-title">Ingredients</h2>
+        <ul>
+            <li>2 tsp olive oil to sauté the kale</li>
+            <li>5 oz. baby kale</li>
+            <li>Non-stick spray or oil (to spray the slow cooker if you don’t use the Ninja)</li>
+            <li>6 oz. roasted red pepper (from a jar), diced fairly small</li>
+            <li>1/4 cup sliced green onion</li>
+            <li>5 oz. crumbled Feta</li>
+            <li>8 eggs, well beaten</li>
+            <li>1/2 tsp. Spike seasoning (or other all-purpose seasoning blend)</li>
+            <li>Fresh-ground black pepper to taste</li>
+        </ul>
+
+        <h2 class="section-title">Instructions</h2>
+        <ol>
+            <li>Wash kale if needed, and spin dry or dry with paper towels.</li>
+            <li>Heat the oil, either in the Ninja Cooker on the Stovetop/High setting or in a large frying pan on medium-high.</li>
+            <li>When the oil is hot, add the kale and sauté until it’s softened into a flat layer, about 3-4 minutes in the Ninja Cooker and slightly less in a pan.</li>
+            <li>If you’re using a regular slow cooker, spray it well with non-stick spray or oil and transfer the cooked kale to the slow cooker.</li>
+            <li>If you’re using the Ninja Cooker, turn to Slow Cook/Low setting.</li>
+            <li>Drain red peppers and chop into fairly small pieces.</li>
+            <li>Slice the green onions and crumble the Feta.</li>
+            <li>Add the chopped red pepper and sliced green onion to the slow cooker with the kale.</li>
+            <li>Beat the eggs well, pour over other ingredients in the slow cooker, and stir so all ingredients are well-combined.</li>
+            <li>Season with Spike Seasoning and black pepper, then sprinkle on the Feta.</li>
+            <li>Cook on low for 2 – 3 hours, or until the frittata is well set and cheese is melted.</li>
+        </ol>
+
+        <h2 class="section-title">Notes</h2>
+        <p>I used my Ninja Cooker, which made it easy to sauté the kale right in the slow cooker, but if you don’t have a Ninja this is perfect to make in the Crock-Pot Casserole Crock Slow Cooker.
