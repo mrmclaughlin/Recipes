@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kopusta Recipe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="recipe-title">Kopusta Recipe</h1>
+        
+        <p class="time">Prep Time: ~15 minutes | Cook Time: 1-4 hours</p>
+
+        <h2 class="section-title">Ingredients</h2>
+        <ul>
+            <li>2 tablespoons of oil</li>
+            <li>1 onion</li>
+            <li>3 cloves of sliced garlic</li>
+            <li>1 tablespoon caraway seeds</li>
+            <li>1 tablespoon smoked paprika</li>
+            <li>1 lb of kielbasa</li>
+            <li>1 cup sauerkraut (reserve 1 oz of liquid)</li>
+            <li>1 head of green cabbage</li>
+            <li>2 bay leaves</li>
+            <li>4 cups fresh chicken stock</li>
+        </ul>
+
+        <h2 class="section-title">Instructions</h2>
+        <ol>
+            <li>Heat oil in a pot or ceramic Dutch oven.</li>
+            <li>Add onion and cook until just browned.</li>
+            <li>Add garlic and cook until aromatic.</li>
+            <li>Add spices and cook until fragrant.</li>
+            <li>Add sauerkraut and cook until a fond (Zuke) forms.</li>
+            <li>Deglaze the pot with reserved sauerkraut liquid.</li>
+            <li>Add kielbasa and cook for a few minutes.</li>
+            <li>Add cabbage and then immediately add chicken stock.</li>
+            <li>Fold all ingredients together in the pot.</li>
+            <li>Simmer for an hour or place in the oven at 300°F for up to 4 hours.</li>
+        </ol>
+
+        <h2 class="section-title">Notes</h2>
+        <ul>
+            <li>Paprika is dried red bell pepper.</li>
+            <li>Bay leaves react with fat to remove greasy flavors.</li>
+            <li>Add a pinch of salt each time you add a new ingredient.</li>
+            <li>For authentic sauerkraut, visit <strong>D & D Polish Deli</strong> in Telford.</li>
+        </ul>
+    </div>
+
+</body>
+</html>
